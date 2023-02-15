@@ -1,3 +1,7 @@
+------Project todo- list com uso de Jenkins e Docker---------
+Rayssa Amorim
+
+
 # django-todolist
 
 Simple todolist write in django for general use and pipeline automation..
